@@ -1,26 +1,26 @@
 @font-face {
     font-family: "Centra";
-    src: url(/Assets/CentraNo2-Bold.ttf);
+    src: url(https://github.com/Francis1829/Portfolio/blob/main/Assets/CentraNo2-Bold.ttf);
     font-weight: 700;
 }
 @font-face {
     font-family: "Centra1";
-    src: url(/Assets/CentraNo2-Book.ttf);
+    src: url(https://github.com/Francis1829/Portfolio/blob/main/Assets/CentraNo2-Book.ttf);
     font-weight: 400;
 }
 @font-face {
     font-family: "Centra2";
-    src: url(/Assets/CentraNo2-Medium.ttf);
+    src: url(https://github.com/Francis1829/Portfolio/blob/main/Assets/CentraNo2-Medium.ttf);
     font-weight: 500;
 }
 @font-face {
     font-family: "Patua";
-    src: url(/Assets/PatuaOne-Regular.ttf);
+    src: url(https://github.com/Francis1829/Portfolio/blob/main/Assets/PatuaOne-Regular.ttf);
 }
 
 @font-face {
     font-family: "Wild";
-    src: url(/Assets/WildRomance-Yzpov.ttf);
+    src: url(https://github.com/Francis1829/Portfolio/blob/aa4c4aeabcda4a66f1ebe602ec3bbfe8ecd03d63/Assets/WildRomance-Yzpov.ttf);
 }
 
 .space{
